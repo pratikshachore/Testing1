@@ -5,5 +5,10 @@ public class Hello {
 		System.out.println("Hello testing with github");
 		System.out.println("I m gitcode");
 	}
+	
+	public void m1()
+	{
+		System.out.println("This is branching")
+		}
 
 }
